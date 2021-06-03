@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to the Right Honourable, Alderman Warner, Lord Major of London</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88043</idno><idno type="EEBO-CITATION">99862985</idno>
+  <idno type="VID">115165</idno>
+  <idno type="EEBO-PROQUEST">2240952753</idno>
+  
+            <idno type="STC">Wing L1748</idno>
+            <idno type="STC">Thomason E435_27</idno>
+            <idno type="STC">ESTC R202814</idno>
+            <idno type="PROQUEST">99862985</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862985e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88043)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115165)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E435[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to the Right Honourable, Alderman Warner, Lord Major of London</title>
+                  <author>Warner, John, Sir, d. 1648.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill 13th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Warner, John, --  Sir, d. 1648 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115165:1"/>
+            <p>A LETTER TO THE RIGHT HONOVRABLE, ALDERMAN <hi>WARNER,</hi> Lord Major of LONDON.</p>
+            <p>Printed in the Yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:115165:2"/>
+            <pb n="1" facs="tcp:115165:2"/>
+            <head>A Letter to the Right Honourable, Alderman <hi>Warner,</hi> Lord Major of <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>HAving well weighed, and duly consi<g ref="char:EOLhyphen"/>dered of every particular in your late Letter, I cannot possibly bring my selfe to be of your opinion: but rather beleeve, it will be the greatest mark of Gods favour, that ever befell this City, in keeping them from engaging with the Army and Parlia<g ref="char:EOLhyphen"/>ment as it now stands, for it appeares to me, they now seeke their owne private interests, and preservation, though it be to the destru<g ref="char:EOLhyphen"/>ction of the whole Nation. And how infi<g ref="char:EOLhyphen"/>nitely is the Kingdome bound to the Al<g ref="char:EOLhyphen"/>mighty? yea how hath he looked downe in mercy upon this City? in shewing them the
+<pb n="2" facs="tcp:115165:3"/>way to their own salvation. There is no doubt but all Countries will follow their ex<g ref="char:EOLhyphen"/>amples: I am sure ours is resolved!</p>
+            <p>VVhen the miseries of VVar; the Fa<g ref="char:EOLhyphen"/>mine and the Plague which ever attend it, are taken into a serious consideration, well weighing the happinesse of Peace, and the benefits it brings to every particular person, as well the poore as the rich man: it would not be many weeks, no nor many dayes be<g ref="char:EOLhyphen"/>fore they bring home their lost King and Lawes, (without which, Peace can ne<g ref="char:EOLhyphen"/>ver be in this Nation.) Then no mans house would be broken up, nor his goods taken from him, no nor his wife or children ravished from him. No Excise, nor Taxes ever heard of more; Our good old Lawes duely put in execution, prevents all these enormities; Yea and many more, too tedi<g ref="char:EOLhyphen"/>ous for me to put downe in this place, but well knowne to all.</p>
+            <pb n="3" facs="tcp:115165:3"/>
+            <p>And besides all this, it would bring such a present flood of Trade upon the City and Suburbs, that they would have the greatest Trading the City ever yet had: all men as well poore, as rich, would have: more <hi>work</hi> the <hi>poore,</hi> more <hi>trading</hi> the <hi>richer sort,</hi> then they could possibly turne themselves to: and this with the blessing of God which ever ac<g ref="char:EOLhyphen"/>companieth just peace, will make every man either rich or well to live.</p>
+            <p>Can you but remember the comming in of K. <hi>James</hi> (and call to mind the difference between his &amp; Q. <hi>Elizabeths</hi> times in point of Trading) I dare boldly affirme it to all the world, it made more rich men in the Ci<g ref="char:EOLhyphen"/>ty of <hi>London</hi> in seven years, then twenty the best years of Q. <hi>Elizabeths</hi> Reign did. The same reason holds now, and more to advan<g ref="char:EOLhyphen"/>tage the increase of Trade: The King, the Queene, the Princes comming home, will bring that infinite benefit of Trade to the
+<pb n="4" facs="tcp:115165:4"/>City, as is not easily to be imagined, all the No<g ref="char:EOLhyphen"/>bility, Gentry, and persons of all ranks and qua<g ref="char:EOLhyphen"/>lities (which now dare have no more clothes, then on their backs; nor in their houses, but what they lye upon) will presently resort to that place to be furnished with all: Besides Ambas<g ref="char:EOLhyphen"/>sadours from Forraigne Nations; Merchants bring in Millions yearly into the Mint, which now stands still.</p>
+            <p>All which, makes it so plainly demonstrative to every man and woman, both poore and rich, of what conditions or trades soever, in their se<g ref="char:EOLhyphen"/>verall vocations, that they will enjoy the bles<g ref="char:EOLhyphen"/>sings, not only of peace, but of plenty, by resto<g ref="char:EOLhyphen"/>ring the Kings Majesty, and the known Laws of the Land; that it will not long be in the power of such as are of contrary opi<g ref="char:EOLhyphen"/>nions to withhold them from strange and vio<g ref="char:EOLhyphen"/>lent wayes, to remove the hindrances of, not only the Kings Raigning, but also the Cities trading.</p>
+            <pb n="5" facs="tcp:115165:4"/>
+            <p>My Lord, J must deal freely with you: You are a man looked upon, as one that would not one<g ref="char:EOLhyphen"/>ly sacrifice the wealth of that glorious City to the rapine of those few factious spirits, which now governe in Parliament and Army: but offer the lives of all those soules which are precious in the sight of God, who for oppression and blood will most certainly make inquisition. Oh my Lord, consider what is here written; and it may be you will find God hath put you into this place of Au<g ref="char:EOLhyphen"/>thority, to doe him service, and at last make you an instrument of redeeming this City and people from this Aegyptian bondage, from those cruell Task-masters, which will, when your wealth is consumed, make you make Brick without Straw. O what a great and glorious man will you be, if it be so! you will not enjoy onely honour and wealth in this world, but eternall Glory in the world to come. Despise not your King and Pro<g ref="char:EOLhyphen"/>phets which God hath set over you, nor those good lawes which must preserve your posterity.
+<pb n="6" facs="tcp:115165:5"/>Therefore while it is to day, never cease cry<g ref="char:EOLhyphen"/>ing out in your streets, VVe will no longer be governed without our gracious King CHARLES, and the knowne Lawes of the Land: And turne unto the Lord with all humblenesse of soule for this great bles<g ref="char:EOLhyphen"/>sing.</p>
+            <closer>
+               <signed>Your Lordships Servant.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
